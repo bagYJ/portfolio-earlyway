@@ -1,0 +1,62 @@
+spring:
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+          auto-create-topics: true
+        bindings:
+          scrapProduct-in-0:
+            consumer:
+              start-offset: latest
+              configuration:
+                max.poll.records: 1
+                session.timeout.ms: 30000
+          indexProduct-in-0:
+            consumer:
+              start-offset: latest
+              configuration:
+                max.poll.records: 1
+                session.timeout.ms: 30000
+      function:
+#        definition: scrapProduct;indexProduct;registerProduct
+        definition: scrapProduct;indexProduct
+      bindings:
+        scrapProduct-in-0:
+          consumer:
+            concurrency: 1
+            max-attempts: 2
+          destination: vvicCrawlRequest
+          binder: kafka
+          group: scrapProduct-3
+        scrapProduct-out-0:
+          destination: indexProduct
+          binder: kafka
+        indexProduct-in-0:
+          consumer:
+            concurrency: 1
+            max-attempts: 2
+          destination: indexProduct
+          binder: kafka
+          group: indexProduct-3
+        indexProduct-out-0:
+          destination: registerProduct
+          binder: kafka
+#        uploadProduct-in-0:
+#          consumer:
+#            concurrency: 1
+#            max-attempts: 2
+#          destination: registerProduct
+#          binder: kafka
+#          group: registerProduct
+#        uploadProduct-out-0:
+#          destination: saveToGodo
+#          binder: kafka
+#        saveToGodo-in-0:
+#          consumer:
+#            max-attempts: 2
+#          destination: saveToGodo
+#          binder: kafka
+#          group: saveToGodo
+  main:
+    web-application-type: none

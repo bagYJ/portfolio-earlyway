@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <goods_data idx="1">
+    <cateCd><![CDATA[001001001]]></cateCd>
+    <allCateCd><![CDATA[001001001]]></allCateCd>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsCd><![CDATA[61dd1967285b3b0007475284]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[실사 2022 신상 봄가을 투피스 티셔츠 슬림 숏 이너 홀터넥 펀칭 쇄골섹시 상의 여]]></goodsNm>
+    <goodsNmMain/>
+    <goodsNmList/>
+    <goodsNmDetail/>
+    <goodsSearchWord/>
+    <goodsOpenDt/>
+    <goodsState>n</goodsState>
+    <goodsColor/>
+    <imageStorage>local</imageStorage>
+    <payLimitFl>n</payLimitFl>
+    <payLimit/>
+    <brandCd/>
+    <makerNm/>
+    <originNm/>
+    <goodsModelNo/>
+    <makeYmd/>
+    <launchYmd><![CDATA[2022-01-11]]></launchYmd>
+    <effectiveStartYmd/>
+    <effectiveEndYmd/>
+    <goodsPermission>member</goodsPermission>
+    <goodsPermissionGroup/>
+    <onlyAdultFl/>
+    <goodsMustInfoData>
+      <goodsMustInfoData idx="1">
+        <stepData>
+          <stepData>
+            <infoTitle><![CDATA[test]]></infoTitle>
+            <infoValue><![CDATA[test value]]></infoValue>
+            <text/>
+          </stepData>
+        </stepData>
+        <text/>
+      </goodsMustInfoData>
+    </goodsMustInfoData>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent/>
+    <goodsWeight/>
+    <totalStock/>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit/>
+    <fixedOrderCnt/>
+    <minOrderCnt/>
+    <maxOrderCnt/>
+    <salesStartYmd/>
+    <salesEndYmd/>
+    <mileageFl>c</mileageFl>
+    <mileageGoods/>
+    <mileageGoodsUnit/>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsDiscount/>
+    <goodsDiscountUnit/>
+    <fixedPrice>9200.0</fixedPrice>
+    <costPrice/>
+    <goodsPriceString/>
+    <goodsPrice>9200.0</goodsPrice>
+    <optionFl>y</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName><![CDATA[색상^|^사이즈]]></optionName>
+    <optionData idx="1">
+      <optionNo>1</optionNo>
+      <optionValue1><![CDATA[푸른 색]]></optionValue1>
+      <optionValue2><![CDATA[프리사이즈]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="2">
+      <optionNo>2</optionNo>
+      <optionValue1><![CDATA[핑크색]]></optionValue1>
+      <optionValue2><![CDATA[프리사이즈]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="3">
+      <optionNo>3</optionNo>
+      <optionValue1><![CDATA[그레이]]></optionValue1>
+      <optionValue2><![CDATA[프리사이즈]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>y</addGoodsFl>
+    <detailImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01q8FGlH1hOKkQ767ir_!!2235384267-2-taopaipc.png]]></detailImageData>
+    <detailImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01T31zW41hOKkBwjcW0_!!2235384267.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01FyVZvd1hOKkL8tuJW_!!2235384267.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01rNdZl61hOKkLufHbx_!!2235384267.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01LSHDBH1hOKkL9oEc9_!!2235384267.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01Eexy161hOKkNGoZJW_!!2235384267.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="7">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN012ihISC1hOKkTtiPgQ_!!0-item_pic.jpg_400x400.jpg]]></detailImageData>
+    <listImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01q8FGlH1hOKkQ767ir_!!2235384267-2-taopaipc.png]]></listImageData>
+    <listImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01T31zW41hOKkBwjcW0_!!2235384267.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01FyVZvd1hOKkL8tuJW_!!2235384267.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01rNdZl61hOKkLufHbx_!!2235384267.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01LSHDBH1hOKkL9oEc9_!!2235384267.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01Eexy161hOKkNGoZJW_!!2235384267.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="7">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN012ihISC1hOKkTtiPgQ_!!0-item_pic.jpg_400x400.jpg]]></listImageData>
+    <magnifyImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01q8FGlH1hOKkQ767ir_!!2235384267-2-taopaipc.png]]></magnifyImageData>
+    <magnifyImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01T31zW41hOKkBwjcW0_!!2235384267.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01FyVZvd1hOKkL8tuJW_!!2235384267.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01rNdZl61hOKkLufHbx_!!2235384267.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01LSHDBH1hOKkL9oEc9_!!2235384267.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01Eexy161hOKkNGoZJW_!!2235384267.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="7">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN012ihISC1hOKkTtiPgQ_!!0-item_pic.jpg_400x400.jpg]]></magnifyImageData>
+    <mainImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01q8FGlH1hOKkQ767ir_!!2235384267-2-taopaipc.png]]></mainImageData>
+    <mainImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01T31zW41hOKkBwjcW0_!!2235384267.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01FyVZvd1hOKkL8tuJW_!!2235384267.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01rNdZl61hOKkLufHbx_!!2235384267.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01LSHDBH1hOKkL9oEc9_!!2235384267.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN01Eexy161hOKkNGoZJW_!!2235384267.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="7">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/61dd1967285b3b0007475284/O1CN012ihISC1hOKkTtiPgQ_!!0-item_pic.jpg_400x400.jpg]]></mainImageData>
+    <shortDescription/>
+    <goodsDescription>
+      <![CDATA[<img src="/data/goods/61dd1967285b3b0007475284/O1CN01B6bEjb1hOKkRJzwtN_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01rNdZl61hOKkLufHbx_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN010H0JKH1hOKkNH8mJo_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01u8IG6a1hOKkLui26P_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01U30A7B1hOKkIyulW2_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01fTLvPG1hOKkS1OUqL_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01bZww1N1hOKkT8LDO2_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN016vKjfC1hOKkBx5dau_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01DztdD01hOKkNHAn2l_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN0155TOji1hOKkIJZm0R_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01ybdf8p1hOKkGlLKja_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN0184jIif1hOKkBx3I4J_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01nVfBcZ1hOKkQ9YFa9_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01vJ9Acy1hOKkIJZqCL_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01ibL4qY1hOKkGlLjgN_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01jldZhQ1hOKkIJa2en_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01gMC1ZK1hOKkLGV3tk_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01UhOLUC1hOKkRK2dE1_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN014dvhaP1hOKkTssFbT_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01b2Ejfh1hOKkRK0xFc_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01BfTkxR1hOKkL9Acuv_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01mPz3pc1hOKkTsqybs_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01zT9ao91hOKkIJZuM9_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01OL0YH01hOKkLuhQhW_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01xcVSpS1hOKkLufxDt_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01tqAvoL1hOKkPTmjsl_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01JipWP21hOKkT8KkJN_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01SYnCCY1hOKkQ9XVo0_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01DM8YUO1hOKkLugQJ8_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN012dPxae1hOKkMrx5xT_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01Q5WJjr1hOKkIyv288_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01Lipx4D1hOKkGlJSK0_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN010BKFnK1hOKkQ9Y7FF_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01pmHTQf1hOKkL9D2a2_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01Ka2LEp1hOKkGlKb06_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN01xqaVmp1hOKkNH92vJ_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN016bGpga1hOKkQ9WqFV_!!2235384267.jpg"><img src="/data/goods/61dd1967285b3b0007475284/O1CN019bms671hOKkQ9W2Kt_!!2235384267.jpg">]]></goodsDescription>
+    <goodsDescriptionMobile/>
+    <deliverySno>1</deliverySno>
+    <relationFl>a</relationFl>
+    <relationSameFl/>
+    <relationCnt/>
+    <relationGoodsNo/>
+    <relationGoodsDate/>
+    <goodsIconStartYmd/>
+    <goodsIconEndYmd/>
+    <goodsIconCdPeriod/>
+    <goodsIconCd/>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <externalVideoUrl/>
+    <externalVideoWidth/>
+    <externalVideoHeight/>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <memo/>
+    <scmNo>1</scmNo>
+    <restockFl>y</restockFl>
+    <qrCodeFl/>
+    <text/>
+  </goods_data>
+</data>

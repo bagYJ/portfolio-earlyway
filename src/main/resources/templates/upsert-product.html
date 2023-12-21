@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+  <title>Getting Started: Handling Form Submission</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<h1>VVIC 상품을 고도몰에 등록</h1>
+<span>
+  아래 textarea에 vvic의 상품 id를 입력한 후 확인 버튼을 누르면 해당 페이지의 상품 데이터를 고도몰에 등록합니다.
+  고도몰에 VVIC 상품 id를 가진 상품이 있다면 기존 상품을 최신 정보로 update합니다.
+  url은 , 를 구분자로 여러개 입력할 수 있습니다.
+</span>
+<br/>
+
+<form action="#" method="post" th:action="@{/products}" th:object="${stringParam}">
+  <textarea th:field="*{str}" style="width: 500px;height: 500px"></textarea>
+  <button type="submit">확인</button>
+</form>
+</body>
+</html>

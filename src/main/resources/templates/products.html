@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<h1>상품등록정보결과</h1>
+<table>
+    <tr>
+        <th>성공코드: </th>
+        <td th:text="${successIds}">성공코드</td>
+    </tr>
+    <tr>
+        <th>중복코드: </th>
+        <td th:text="${duplicateIds}">중복코드</td>
+    </tr>
+    <tr>
+        <th>실패코드: </th>
+        <td th:text="${failedIds}">실패코드</td>
+    </tr>
+</table>
+<br/>
+</body>
+</html>

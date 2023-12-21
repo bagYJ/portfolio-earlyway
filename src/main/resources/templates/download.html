@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+  <title>Getting Started: Handling Form Submission</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<h1>VVIC crawler</h1>
+<span>
+  아래 textarea에 url을 입력한 후 확인 버튼을 누르면 해당 페이지의 상품 데이터를 엑셀 다운로드 할 수 있습니다.
+  url은 , 를 구분자로 여러개 입력할 수 있습니다.
+</span>
+<form action="#" method="post" th:action="@{/downloadExcel}" th:object="${stringParam}">
+  <textarea th:field="*{str}" style="width: 500px;height: 500px"></textarea>
+  <button type="submit">확인</button>
+</form>
+</body>
+</html>

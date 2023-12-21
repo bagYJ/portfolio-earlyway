@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <goods_data idx="1">
+    <cateCd><![CDATA[001001003]]></cateCd>
+    <goodsNo><![CDATA[1000000093]]></goodsNo>
+    <allCateCd><![CDATA[001001003]]></allCateCd>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsCd><![CDATA[612bcf8899d5bd0001f1dbcc]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[업데이트 테스트]]></goodsNm>
+    <goodsNmMain/>
+    <goodsNmList/>
+    <goodsNmDetail/>
+    <goodsSearchWord/>
+    <goodsOpenDt/>
+    <goodsState>n</goodsState>
+    <goodsColor/>
+    <imageStorage>local</imageStorage>
+    <payLimitFl>n</payLimitFl>
+    <payLimit/>
+    <brandCd/>
+    <makerNm/>
+    <originNm>중국</originNm>
+    <goodsModelNo/>
+    <makeYmd/>
+    <launchYmd><![CDATA[2021-08-30]]></launchYmd>
+    <effectiveStartYmd/>
+    <effectiveEndYmd/>
+    <goodsPermission>member</goodsPermission>
+    <goodsPermissionGroup/>
+    <onlyAdultFl/>
+    <goodsMustInfoData>
+      <goodsMustInfoData idx="1">
+        <stepData>
+          <stepData>
+            <infoTitle><![CDATA[test]]></infoTitle>
+            <infoValue><![CDATA[test value]]></infoValue>
+            <text/>
+          </stepData>
+        </stepData>
+        <text/>
+      </goodsMustInfoData>
+    </goodsMustInfoData>
+    <taxFreeFl>t</taxFreeFl>
+    <taxPercent/>
+    <goodsWeight/>
+    <totalStock/>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <salesUnit/>
+    <fixedOrderCnt/>
+    <minOrderCnt/>
+    <maxOrderCnt/>
+    <salesStartYmd/>
+    <salesEndYmd/>
+    <mileageFl>c</mileageFl>
+    <mileageGoods/>
+    <mileageGoodsUnit/>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsDiscount/>
+    <goodsDiscountUnit/>
+    <fixedPrice/>
+    <costPrice/>
+    <goodsPriceString/>
+    <goodsPrice>10900.0</goodsPrice>
+    <optionFl>y</optionFl>
+    <optionDisplayFl>d</optionDisplayFl>
+    <optionName><![CDATA[색상^|^사이즈]]></optionName>
+    <optionData idx="1">
+      <optionNo>1</optionNo>
+      <optionValue1><![CDATA[살구색]]></optionValue1>
+      <optionValue2><![CDATA[S]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="2">
+      <optionNo>2</optionNo>
+      <optionValue1><![CDATA[살구 플러시]]></optionValue1>
+      <optionValue2><![CDATA[S]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>3500.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="3">
+      <optionNo>3</optionNo>
+      <optionValue1><![CDATA[살구색]]></optionValue1>
+      <optionValue2><![CDATA[XL]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="4">
+      <optionNo>4</optionNo>
+      <optionValue1><![CDATA[살구 플러시]]></optionValue1>
+      <optionValue2><![CDATA[XL]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>3500.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="5">
+      <optionNo>5</optionNo>
+      <optionValue1><![CDATA[살구색]]></optionValue1>
+      <optionValue2><![CDATA[2XL]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="6">
+      <optionNo>6</optionNo>
+      <optionValue1><![CDATA[살구 플러시]]></optionValue1>
+      <optionValue2><![CDATA[2XL]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>3500.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="7">
+      <optionNo>7</optionNo>
+      <optionValue1><![CDATA[살구색]]></optionValue1>
+      <optionValue2><![CDATA[L]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="8">
+      <optionNo>8</optionNo>
+      <optionValue1><![CDATA[살구 플러시]]></optionValue1>
+      <optionValue2><![CDATA[L]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>3500.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="9">
+      <optionNo>9</optionNo>
+      <optionValue1><![CDATA[살구색]]></optionValue1>
+      <optionValue2><![CDATA[M]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>0.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionData idx="10">
+      <optionNo>10</optionNo>
+      <optionValue1><![CDATA[살구 플러시]]></optionValue1>
+      <optionValue2><![CDATA[M]]></optionValue2>
+      <optionValue3/>
+      <optionValue4/>
+      <optionValue5/>
+      <optionPrice>3500.0</optionPrice>
+      <optionViewFl><![CDATA[y]]></optionViewFl>
+      <optionSellFl><![CDATA[y]]></optionSellFl>
+      <optionCode/>
+      <stockCnt>100000</stockCnt>
+    </optionData>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>y</addGoodsFl>
+    <detailImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1633720265363_99229.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925852_507838.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925922_721328.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925844_378737.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925800_360327.jpg_400x400.jpg]]></detailImageData>
+    <detailImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260969100_358504.jpg_400x400.jpg]]></detailImageData>
+    <listImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1633720265363_99229.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925852_507838.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925922_721328.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925844_378737.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925800_360327.jpg_400x400.jpg]]></listImageData>
+    <listImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260969100_358504.jpg_400x400.jpg]]></listImageData>
+    <magnifyImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1633720265363_99229.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925852_507838.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925922_721328.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925844_378737.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925800_360327.jpg_400x400.jpg]]></magnifyImageData>
+    <magnifyImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260969100_358504.jpg_400x400.jpg]]></magnifyImageData>
+    <mainImageData idx="1">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1633720265363_99229.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="2">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925852_507838.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="3">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925922_721328.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="4">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925844_378737.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="5">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260925800_360327.jpg_400x400.jpg]]></mainImageData>
+    <mainImageData idx="6">
+      <![CDATA[http://b2bmaster2.godomall.com/data/goods/612bcf8899d5bd0001f1dbcc/1630260969100_358504.jpg_400x400.jpg]]></mainImageData>
+    <shortDescription/>
+    <goodsDescription><![CDATA[<img src="http://earlyway.co.kr/data/skin/front/mo_designart/img/notice_1.jpg" width="100%">
+<img src="http://earlyway.co.kr/data/skin/front/mo_designart/img/notice_2.jpg" width="100%">
+<img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261096319_43312.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261098130_934649.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261098527_251889.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261098769_215441.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261099379_690988.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261099779_227522.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261100106_350153.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261100459_838317.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261100979_132381.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261101443_247950.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261101898_802613.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261102332_683726.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261102684_496959.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261103050_193405.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261103374_791708.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261103718_260589.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261104008_320471.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261104305_474.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261104614_694292.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261105385_408662.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261105823_492496.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261106234_872158.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261106625_706430.jpg"> <img src="/data/goods/612bcf8899d5bd0001f1dbcc/1630261107041_381335.jpg">
+<img src="http://earlyway.co.kr/data/skin/front/mo_designart/img/notice_3.jpg" width="100%">
+<img src="http://earlyway.co.kr/data/skin/front/mo_designart/img/notice_4.jpg" width="100%">]]></goodsDescription>
+    <goodsDescriptionMobile/>
+    <deliverySno>1</deliverySno>
+    <relationFl>a</relationFl>
+    <relationSameFl/>
+    <relationCnt/>
+    <relationGoodsNo/>
+    <relationGoodsDate/>
+    <goodsIconStartYmd/>
+    <goodsIconEndYmd/>
+    <goodsIconCdPeriod/>
+    <goodsIconCd/>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <externalVideoUrl/>
+    <externalVideoWidth/>
+    <externalVideoHeight/>
+    <detailInfoDelivery>0</detailInfoDelivery>
+    <detailInfoAS>0</detailInfoAS>
+    <detailInfoRefund>0</detailInfoRefund>
+    <detailInfoExchange>0</detailInfoExchange>
+    <memo/>
+    <scmNo>1</scmNo>
+    <restockFl>y</restockFl>
+    <qrCodeFl/>
+    <text/>
+  </goods_data>
+</data>

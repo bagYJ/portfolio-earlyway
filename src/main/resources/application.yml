@@ -1,0 +1,31 @@
+
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchDataAutoConfiguration
+#  devtools:
+#    livereload:
+#      enabled: true
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+          auto-create-topics: true
+      function:
+        definition: vvicCrawlRequest
+      bindings:
+        vvicCrawlRequest-out-0:
+          destination: vvicCrawlRequest
+          binder: kafka
+  profiles:
+    active: server
+
+
+vvic:
+  categories: 20000035,20000018,20000019,20000068,20000017,20000017,20000030,20000364,20000062,20000129,20000128,20000174,20000125,20000070,20000060,20000071,20000176,20000067,20000074,20000106,20000022,20000023,20000389,20000025,20000024,20000001,20000000,20000036,20000021,20000020,20000057,20000291,20000341,20000029,20000041,20000030,20000006,20000010,20000009,20000053,20000038,20000069,20000175,20000027,20000026,20000037,20000340,20000039,20000046,20000048,20000044,20000040,20000005,20000012,20000008,20000011,20000002,20000013,20000072,20000072,20000055,20000052,20000054,20000028,20000131
+server:
+  port: 9083
